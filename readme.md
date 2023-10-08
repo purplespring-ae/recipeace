@@ -6,10 +6,11 @@ A Flask-based app to record and recall recipes with nutritional content informat
 ### Implemented
 
 ### Planned
-- Interface basics:
+- Interface basics
     - HTML templates
     - CSS styling
     - Main menu
+- Basic database with sqlite3
 - UI with database functionality:
     - Ingredients
         - Add, edit
